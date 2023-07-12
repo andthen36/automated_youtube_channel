@@ -1,2 +1,2 @@
-IG_USERNAME = "example_username" 
-IG_PASSWORD = "example_password"
+IG_USERNAME = "howardism" 
+IG_PASSWORD = "brighton48114"
